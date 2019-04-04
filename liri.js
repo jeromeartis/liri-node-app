@@ -32,8 +32,8 @@ const concertThis = function (){
 
 const spotifyThisSong = function (trackName){
   const Spotify = require('node-spotify-api');
-  let track = process.argv[3];
-  track = trackName;
+  let track = process.argv[3]; || trackName
+  
 
   let spotify = new Spotify({
     id: process.env.SPOTIFY_ID,
