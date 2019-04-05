@@ -6,7 +6,6 @@
 #Concert-this
 ![Concert-this](https://github.com/jeromeartis/liri-node-app/blob/master/concert-this.png)
 
-
 #Spotify-this-song
 ![Spotify-this-song](https://github.com/jeromeartis/liri-node-app/blob/master/spotify-this-song.png)
 
