@@ -32,8 +32,7 @@ const concertThis = function (){
 
 const spotifyThisSong = function (trackName){
   const Spotify = require('node-spotify-api');
-  let track = process.argv[3]; || trackName
-  
+  let track = process.argv[3] || trackName;
 
   let spotify = new Spotify({
     id: process.env.SPOTIFY_ID,
@@ -103,8 +102,6 @@ const doWhatItSays = function (){
   const dataList = data.split(',');
   let input = dataList[1];
   // We will then re-display the content as an array for later use.
-  console.log(dataList[0]);
- console.log (dataList[1]);
  spotifyThisSong(dataList[1]);
   });
   return
