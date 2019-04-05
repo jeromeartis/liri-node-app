@@ -2,4 +2,4 @@
 
 
 
-[LIRI-NODE-APP](liri.webm)
+[LIRI-NODE-APP](https://github.com/jeromeartis/liri-node-app/blob/master/liri.webm)
