@@ -5,6 +5,10 @@
 
 
 #Spotify-this-song
+![Spotify-this-song](https://github.com/jeromeartis/liri-node-app/blob/master/spotify-this-song.png)
+
+
+#Movie-this  
 ![do-what-it-says](https://github.com/jeromeartis/liri-node-app/blob/master/do-what-it-says.png)
 
 
